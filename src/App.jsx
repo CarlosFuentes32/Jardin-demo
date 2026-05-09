@@ -248,7 +248,7 @@ function App() {
   );
 
   return (
-    <div className="min-h-screen overflow-hidden text-ink">
+    <div className="min-h-screen overflow-hidden text-ink" data-deployment="github-pages-2026-05-09-v2">
       <a href="#inicio" className="skip-link">
         Saltar al contenido
       </a>
